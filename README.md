@@ -16,7 +16,7 @@ Basic landing page design from Youtube tutorial.I just design it for practice an
 > Clone the repository to your local machine
 
 ```sh
-$ https://github.com/BatuhanYilmazzz/TheProgrammer-The-Designer/
+$ https://github.com/BatuhanYilmazzz/the-programmer-the-designer/
 ```
 
 
